@@ -1,6 +1,6 @@
 # Getting Started with React
 
-## Counter React web-app.
+## Random User Generator.
 
 ### `Hosted URL`
 
